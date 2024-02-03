@@ -1,0 +1,3 @@
+const ADD_THOUGHT = 'ADD_THOUGHT';
+
+export {ADD_THOUGHT}
